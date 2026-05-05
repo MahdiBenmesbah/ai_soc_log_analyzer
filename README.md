@@ -8,7 +8,7 @@ The application can ingest SSH, Apache, and firewall logs, detect suspicious act
 
 Try the application here:
 
-[Open the Streamlit App]https://aisocloganalyzer-hebch2jh3r22kprafdadtk.streamlit.app/
+Open the Streamlit App :https://aisocloganalyzer-hebch2jh3r22kprafdadtk.streamlit.app/
 
 ## Features
 
