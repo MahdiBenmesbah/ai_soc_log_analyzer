@@ -68,3 +68,16 @@ ai_soc_log_analyzer/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+```
+
+## Screenshots
+
+### Dashboard Overview
+![Dashboard Overview](Assets/dashboard_overview.png)
+
+### Alerts Detection
+![Alerts Detection](Assets/alerts_detection.png)
+
+### AI SOC Summary
+![AI SOC Summary](Assets/ai_soc_summary.png)
+
