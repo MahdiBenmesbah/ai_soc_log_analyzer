@@ -1,0 +1,10 @@
+Jan 10 10:01:12 server sshd[1234]: Failed password for root from 185.23.45.10 port 54321 ssh2
+Jan 10 10:01:30 server sshd[1235]: Failed password for root from 185.23.45.10 port 54322 ssh2
+Jan 10 10:02:05 server sshd[1236]: Failed password for admin from 185.23.45.10 port 54323 ssh2
+Jan 10 10:02:45 server sshd[1237]: Failed password for invalid user test from 185.23.45.10 port 54324 ssh2
+Jan 10 10:03:12 server sshd[1238]: Failed password for root from 185.23.45.10 port 54325 ssh2
+Jan 10 10:03:55 server sshd[1239]: Failed password for root from 185.23.45.10 port 54326 ssh2
+Jan 10 10:04:20 server sshd[1240]: Accepted password for root from 185.23.45.10 port 54327 ssh2
+Jan 10 11:15:42 server sshd[1241]: Failed password for user1 from 91.120.33.8 port 44221 ssh2
+Jan 10 11:16:01 server sshd[1242]: Accepted password for user1 from 91.120.33.8 port 44222 ssh2
+Jan 10 12:45:10 server sshd[1243]: Failed password for admin from 203.0.113.55 port 33112 ssh2
