@@ -4,6 +4,12 @@ AI SOC Log Analyzer is a Streamlit application for analyzing security log files.
 
 The application can ingest SSH, Apache, and firewall logs, detect suspicious activity using Python rules, assign risk scores, and generate SOC investigation reports with the Gemini API.
 
+## Live Demo
+
+Try the application here:
+
+[Open the Streamlit App]https://aisocloganalyzer-hebch2jh3r22kprafdadtk.streamlit.app/
+
 ## Features
 
 - Upload `.log`, `.txt`, or `.csv` files
