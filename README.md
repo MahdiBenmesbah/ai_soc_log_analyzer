@@ -76,7 +76,7 @@ ai_soc_log_analyzer/
 ![Dashboard Overview](Assets/dashboard_overview.png)
 
 ### Alerts Detection
-![Alerts Detection](screenshots/Screenshot 2026-05-05 200623.png)
+![Alerts Detection](screenshots/Screenshot_2026-05-05_200623.png)
 
 ### AI SOC Summary
 ![AI SOC Summary](Assets/ai_soc_summary.png)
